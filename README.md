@@ -4,7 +4,7 @@ Coding a chatbot that can tell jokes.
 # To run the script:
 1. Download the python_chatbot.py file onto your computer
 
-2. Run it by:
+2. There are 2 ways to run the program on your computer:
 
 a) Downloading the Python 3 Environment here: https://www.python.org/downloads/
 
