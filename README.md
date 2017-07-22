@@ -9,3 +9,13 @@ Coding a chatbot that can tell jokes.
 a) Downloading the Python 3 Environment here: https://www.python.org/downloads/
 
 b) Using cmd or Terminal, navigating until the directory, and entering: **python3 python_chatbot.py** at the right directory
+
+# Proposed schedule (in chronological order)
+
+Go through examples through the NLTK book: http://www.nltk.org/book/.
+
+Read other related **Natural Language Processing** documentation, and code examples of it here.
+
+Code a GUI and web Framework for the chatbot.
+
+Apply machine learning or data mining techniques to the chatbot to self improve.
