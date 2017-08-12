@@ -19,3 +19,8 @@ Read other related **Natural Language Processing** documentation, and code examp
 Code a GUI and web Framework for the chatbot.
 
 Apply machine learning or data mining techniques to the chatbot to self improve.
+
+# Contents of this repository:
+
+**NLTK3_Book** : Put exemplified code for each of the chapters here from the NLTK book
+ 
