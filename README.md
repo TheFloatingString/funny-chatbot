@@ -23,5 +23,7 @@ Apply machine learning or data mining techniques to the chatbot to self improve.
 # Contents of this repository:
 
 **NLTK3_Book** : exemplified code for each of the chapters here from the NLTK book
+
 **README.md** : description of this repository
+
 **python_chatbot.py** : a simple python chatbot that can converse with a user
