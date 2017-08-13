@@ -22,7 +22,7 @@ Apply machine learning or data mining techniques to the chatbot to self improve.
 
 # Contents of this repository:
 
-**NLTK3_Book** : exemplified code for each of the chapters here from the NLTK book
+**NLTK3_Book** : exemplified code for each of the chapters here from the NLTK book http://www.nltk.org/
 
 **README.md** : description of this repository
 
